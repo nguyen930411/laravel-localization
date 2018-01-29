@@ -23,11 +23,7 @@ Laravel 5 is released!!
 
  Laravel      | laravel-localization
 :-------------|:----------
- 4.0.x        | 0.13.x
- 4.1.x        | 0.13.x
- 4.2.x        | 0.15.x
- 5.0.x/5.1.x  | 1.0.x
- 5.2.x-5.4.x  | 1.2.x
+ 5.0.x/5.1.x  | dev-master
 
 ## Installation
 
