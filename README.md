@@ -511,3 +511,5 @@ class ConfigServiceProvider extends ServiceProvider {
 This config would add Catalan and Achinese as languages and override any other previous supported locales and all the other options in the package.
 
 You can create your own config providers and add them on your application config file (check the providers array in `config/app.php`).
+
+asdasd
