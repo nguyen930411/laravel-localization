@@ -1,9 +1,5 @@
 # Laravel Localization
 
-[![Join the chat at https://gitter.im/mcamara/laravel-localization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mcamara/laravel-localization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Latest Stable Version](https://poser.pugx.org/mcamara/laravel-localization/version.png)](https://packagist.org/packages/mcamara/laravel-localization) [![Total Downloads](https://poser.pugx.org/mcamara/laravel-localization/d/total.png)](https://packagist.org/packages/mcamara/laravel-localization) [![Build Status](https://travis-ci.org/mcamara/laravel-localization.png)](https://travis-ci.org/mcamara/laravel-localization)
-
 Easy i18n localization for Laravel, an useful tool to combine with Laravel localization classes.
 
 
@@ -37,7 +33,7 @@ Laravel 5 is released!!
 
 ## Installation
 
-Install the package via composer: `composer require mcamara/laravel-localization`
+Install the package via composer: `composer require nguyen930411/laravel-localization`
 
 Register the ServiceProvider in `config/app.php`
 
@@ -486,7 +482,7 @@ After that, `config/laravellocalization.php` will be created. Inside this file y
 
 ### Service Providers
 
-Otherwise, you can use `ConfigServiceProviders` (check <a href="https://raw.githubusercontent.com/mcamara/laravel-localization/master/src/config/config.php">this file</a> for more info).
+Otherwise, you can use `ConfigServiceProviders` (check <a href="https://raw.githubusercontent.com/nguyen930411/laravel-localization/master/src/config/config.php">this file</a> for more info).
 
 For example, editing the default config service provider that Laravel loads when it's installed. This file is placed in `app/providers/ConfigServicePovider.php` and would look like this:
 
